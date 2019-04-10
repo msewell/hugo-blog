@@ -1,12 +1,12 @@
 ---
-title: "Resume"
+title: "Michael Sewell"
 date: 2019-04-09T17:46:01+02:00
 draft: false
 comments: false
 images:
 ---
 
-# Michael Sewell
+<!-- # Michael Sewell -->
 
 ## Employment
 
