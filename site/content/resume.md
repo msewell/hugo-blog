@@ -1,10 +1,9 @@
----
-title: "Michael Sewell"
-date: 2019-04-09T17:46:01+02:00
-draft: false
-comments: false
-images:
----
++++
+title = "Resume — Michael Sewell"
+type = "resume"
++++
+
+# Michael Sewell
 
 Michael is a software developer experienced in designing and delivering efficient solutions to the technical challenges his clients and employers face, with a particularly strong experience in developing web and mobile (_iOS_) applications.
 He is particularly interested in delivering great user experiences, sustainable software, and modern work methodologies and environments.
